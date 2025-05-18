@@ -12,6 +12,7 @@ Bu projede:
 - `main.py`: Embedding yükleme, benzerlik karşılaştırma ve GPT-4 ile etkileşimli konuşma kodları
 - `Embeddings.rar`: Tüm embedding verilerinin arşivi
 - `.gitignore`: Büyük boyutlu resim dosyaları hariç tutulmuştur
+- `2.zip`: Bu dosyada kullandığım çok yönlü açılardan 5000 resim bulunmaktadır
 
 ## Kullanım
 

@@ -3,6 +3,7 @@
 Bu projede:
 
 - Projede yaklaşık 5000 resim embedding yapılmış ve 10 meyve, sebze esas alınmıştır. Projem bu meyve sebzelerin hastalıklı olup olmadığını anlamakta, hastalıklı ise hastalığını bulmakta ve tedavisi için çözüm yolları üretmektedir. Aynı zamanda bu 10 meyve sebzeye dahil olmayan başka bir bitki resmi eklediğimizde, önceden yüklenen resimlerle bu resmi kıyas yapmakta ve ona en çok benzeyen resmi bulup onun üzreinden bize çıktı verip yorum yapmaktadır.
+- Projede LLM ve VLM kullanılmıştır ama VLM doğrudan kullanılmamıştır.Projede doğrudan bir görüntü+metin entegre VLM kullanılmıyor ama CLIP tabanlı embedding karşılaştırması yapılıyor. 
 - Görsellerin embedding'leri çıkarılmıştır.
 - Kod dosyası: `main.py`
 - Embedding arşivi: `Embeddings.rar` (yüklenmiştir)
